@@ -1,6 +1,6 @@
 ![Base](logo.webp)
 
-# Base node
+## Base node
 
 Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the next billion users onchain. It's built on Optimism’s open-source [OP Stack](https://stack.optimism.io/).
 
